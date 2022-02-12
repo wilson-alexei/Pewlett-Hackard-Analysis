@@ -13,8 +13,20 @@ For Deliverable 1, we need to create three tables: retirement_title, unique_titl
 
 ***unique_titles table***
 <img width="1440" alt="D1 unique titles" src="https://user-images.githubusercontent.com/95068439/153721673-809f0d8a-7dc4-40fa-a655-674bec0b9c27.png">
-* For this table, we used the data from previous table and clean the data to get a better understanding 
+* For this table, we used the data from previous table and clean the data using `DISTINCT ON` to get a better understanding of how many people are actually retiring as there are no repeat names anymore in the table. As we can see, the rows are cut down to almost half of the previous table with 72,458 rows. We also exclude those employees that have already left the company. Now that we have a clean table we need to count how many retiring employee are in each position and create another table for that specific data. 
 
+***retiring_titles table***
+<img width="1440" alt="D1 retiring titles" src="https://user-images.githubusercontent.com/95068439/153722070-2be2cbc6-71ee-4cc4-be78-4280f2b0ea28.png">
+* This table gives us the exact number of upcoming job vacancies due to employees retiring. The table only contain 7 rows which represent number of positions. From this table, we can see: 
+>*  25,916 Senior Engineers will retire
+>*  24,926 Senior Staff will retire
+>*  9,285 Engineers will retire
+>*  7,636 Staff will retire
+>*  3,603 Technique Leaders will retire
+>*  1,090 Assistant Engineer will retire
+>*  2 Managers will retire
+
+    The total of these numbers equal to the number of rows from the **unique_titles table** which is 72,458. 
 
 
 ##Summary
