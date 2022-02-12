@@ -5,7 +5,7 @@ Module 7 Challenge is utilizing `SQL`,`PostgreSQL`, and `pgAdmin 4` to determine
 The manager Bobby is preparing for the upcoming of "silver tsunami" of retiring employees and figure out a list of employees who are eligible for the mentorship program. We will explore the employee database, create necessary tables, and write a report to help Bobby understand how many employees will be retiring so that he can understand what roles that he need to fill through the mentorship program and possibly through hiring people. It is important for those positions to be filled as soon as employees retiring because company's operations remain in progress and we need to promote and hire qualified people to fill their shoes. The purpose of this analysis is to understand how many positions will need hiring and find the right people to train and participate in the mentorship program to carry on company's operations.
 
 ## Results
-For Deliverable 1, we need to create three tables: retirement_title, unique_titles, and retiring_titles. All tables will be shown below with the analysis. 
+For **Deliverable 1**, we need to create three tables: retirement_title, unique_titles, and retiring_titles. All tables will be shown below with the analysis. 
 
 ***retirement_title table***
 <img width="1440" alt="D1 Retirement titles" src="https://user-images.githubusercontent.com/95068439/153721354-7e7f2b75-74f6-4465-a727-23e3ad5523bb.png">
@@ -28,5 +28,10 @@ For Deliverable 1, we need to create three tables: retirement_title, unique_titl
 
     The total of these numbers equal to the number of rows from the **unique_titles table** which is 72,458. 
 
+For **Deliverable 2**, we are creating a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965. 
 
-##Summary
+***mentorship_eligibility table***
+<img width="1440" alt="D2 mentorship" src="https://user-images.githubusercontent.com/95068439/153722659-61669c33-561a-4322-8221-41bb2de63f1b.png">
+* From this table, we can see how many current employees who are eligible for the mentorship program. There are 1549 rows which mean that there are 1549 employees who can participate in the program. 
+
+## Summary
