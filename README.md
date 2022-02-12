@@ -7,11 +7,13 @@ The manager Bobby is preparing for the upcoming of "silver tsunami" of retiring 
 ## Results
 For Deliverable 1, we need to create three tables: retirement_title, unique_titles, and retiring_titles. All tables will be shown below with the analysis. 
 
-**retirement_title table**
+***retirement_title table***
 <img width="1440" alt="D1 Retirement titles" src="https://user-images.githubusercontent.com/95068439/153721354-7e7f2b75-74f6-4465-a727-23e3ad5523bb.png">
 * As we can see from the retirement_title table, there are lots of employees from variations of titles will retire soon. The tables have 133,776 rows which will soon become a massive job vacancies. We can also see that there are some names repeating because some employees are switching positions or being promoted in their respective positions therefore we need to improve and create more table with cleaner data. The next table to create and analyze will be unique_titles. 
 
-**unique_titles table**
+***unique_titles table***
+<img width="1440" alt="D1 unique titles" src="https://user-images.githubusercontent.com/95068439/153721673-809f0d8a-7dc4-40fa-a655-674bec0b9c27.png">
+* For this table, we used the data from previous table and clean the data to get a better understanding 
 
 
 
