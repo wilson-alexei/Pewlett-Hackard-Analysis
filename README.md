@@ -32,6 +32,20 @@ For **Deliverable 2**, we are creating a mentorship-eligibility table that holds
 
 ***mentorship_eligibility table***
 <img width="1440" alt="D2 mentorship" src="https://user-images.githubusercontent.com/95068439/153722659-61669c33-561a-4322-8221-41bb2de63f1b.png">
-* From this table, we can see how many current employees who are eligible for the mentorship program. There are 1549 rows which mean that there are 1549 employees who can participate in the program. 
+* From this table, we can see how many current employees who are eligible for the mentorship program. There are 1549 rows which mean that there are 1549 current employees who can participate in the program to mentor the next generation of Pewlett Hackard employees. 
 
 ## Summary
+Overall, we have 1,549 current employees who are eligible to train new generations of employees to fill those job vacancies from the retirement. However, the ratio between vacant openings and eligible mentors are very huge where this might be a training problem that can potentially disrupt company's operation moving forward. 
+
+* How many vacant jobs that the mentorship program need to fill?
+> There are still 72,458 job vacancies that the company needs to fill by training and hiring qualified people. The company might need to start spreading the information to the public that they are hiring for specific roles and start preparing for the application and hiring process immediately.
+
+* What are the ways to help and ease the mentors possible problem of training a huge groups of incoming employees filling the role?
+> The company needs to strategize on where and how they can find these new generations of qualified employees where they are knowledgable about the industry and have a good amount of experience where they need medium to no mentoring for the position and can also potentially help the mentors as well. Good location to start will be college graduates. 
+
+
+
+
+`LinkedIn: /www.linkedin.com/in/wilson-alexei/`
+
+`Email: wils.alexei@gmail.com`
